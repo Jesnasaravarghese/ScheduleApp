@@ -1,3 +1,0 @@
-# ScheduleCity
-# ScheduleCity
-# ScheduleApp
